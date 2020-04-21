@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "sass-loader": "^8.0.0"
+  },
+  "dependencies": {
+    "flyio": "^0.6.14",
+    "uni-simple-router": "^1.3.71"
+  }
+}

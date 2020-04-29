@@ -7,7 +7,7 @@
 ![hplus](/screenshot/hplus-demo.jpg)
 
 
-# 依赖组件库
+## 依赖组件库
  - [flyio](https://ext.dcloud.net.cn/plugin?id=561)
  - [uni-simple-router](https://ext.dcloud.net.cn/plugin?id=578)
  - [mescroll-uni](http://www.mescroll.com/)
